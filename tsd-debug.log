@@ -1,0 +1,31 @@
+[ERR!] cwd  : C:\Users\Gregory\Desktop\gulp\angularcli-gulp
+[ERR!] os   : Windows_NT 10.0.14393
+[ERR!] argv : "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\Gregory\\AppData\\Roaming\\npm\\node_modules\\tsd\\build\\cli.js" "query" "gulp"
+[ERR!] node : v7.0.0
+[ERR!] tsd  : 0.6.5
+[ERR!] Error: Cannot find module 'internal/fs'
+[ERR!] CODE : MODULE_NOT_FOUND
+[ERR!] Cannot find module 'internal/fs'
+[ERR!] If you need help, you may report this error at:
+    https://github.com/DefinitelyTyped/tsd/issues
+
+[ERR!] 
+Error: Cannot find module 'internal/fs'
+    at Function.Module._resolveFilename (module.js:472:15)
+    at Function.Module._load (module.js:420:25)
+    at Module.require (module.js:500:17)
+    at require (internal/module.js:20:19)
+    at evalmachine.<anonymous>:17:20
+    at Object.<anonymous> (C:\Users\Gregory\AppData\Roaming\npm\node_modules\tsd\node_modules\graceful-fs\fs.js:11:1)
+    at Module._compile (module.js:573:32)
+    at Object.Module._extensions..js (module.js:582:10)
+    at Module.load (module.js:490:32)
+    at tryModuleLoad (module.js:449:12)
+
+[ERR!] tsd.json could not be retrieved
+
+[ERR!] .tsdrc could not be retrieved
+
+[ERR!] Please include the following file with any support request:
+    C:\Users\Gregory\Desktop\gulp\angularcli-gulp\tsd-debug.log
+

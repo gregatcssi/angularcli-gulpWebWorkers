@@ -1,0 +1,1 @@
+var Test=function(){function t(t){this.test=t,this.test="HELLO"}return t}();
